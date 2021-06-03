@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An act prohibiting trade with the Barbada's, Virginia, Bermuda's and Antego. Die Jovis, 3[o] Octobr. 1650. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74392</idno><idno type="EEBO-CITATION">99868146</idno>
+  <idno type="VID">169070</idno>
+  <idno type="EEBO-PROQUEST">2248520359</idno>
+  
+            <idno type="STC">Thomason E1061_21</idno>
+            <idno type="STC">ESTC R209260</idno>
+            <idno type="PROQUEST">99868146</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868146e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74392)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169070)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 158:E1061[21])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An act prohibiting trade with the Barbada's, Virginia, Bermuda's and Antego. Die Jovis, 3[o] Octobr. 1650. Ordered by the Parliament, that this Act be forthwith printed and published. Hen: Scobell, Cleric. Parliamenti.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>p. [2], 1027-1034, [2]   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Edward Husband and John Field, Printers to the Parliament of England,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: 8X-8Y. Also issued as part of a through-paged set with a table for the entire set added.</note>
+                  <note>The bracketed "o" in the title is in superscript on the t.p.</note>
+                  <note>On 8X2r: last word of first line of text: "and"; first word of line below initial: "by"; last word of last line on page: "and".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Commerce --  America --  Early works to 1800.</term>
+               <term type="geographic_name">America --  Commerce --  Great Britain --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Colonies --  America --  Commerce --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169070:1"/>
+            <p>AN ACT Prohibiting TRADE WITH THE <hi>Barbada's, Virginia, Bermuda's</hi> and <hi>Antego.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="Parliamentary_order">
+                        <opener>
+                           <dateline>
+                              <date>Die Jovis, 3<seg rend="sup">o</seg> Octobr. 1650.</date>
+                           </dateline>
+                        </opener>
+                        <p>
+                           <hi>ORdered by the Parliament, That this</hi> Act <hi>be forthwith printed and published.</hi>
+                        </p>
+                        <closer>
+                           <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>London,</hi> Printed by <hi>Edward Husband</hi> and <hi>John Field,</hi> Printers to the Parliament of <hi>England,</hi> 1650.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:169070:2"/>
+            <pb n="1027" facs="tcp:169070:2"/>
+            <head>AN ACT Prohibiting TRADE WITH THE <hi>Barbada's, Virginia, Bermuda's</hi> and <hi>Antego.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">W</seg>Hereas in <hi>Virginia,</hi> and in the Islands of <hi>Bar<g ref="char:EOLhyphen"/>bada's, Antego, St. Chri<g ref="char:EOLhyphen"/>stophers, Mevias, Moun<g ref="char:EOLhyphen"/>sirat, Bermuda's,</hi> and di<g ref="char:EOLhyphen"/>vers other Islands &amp; places in <hi>America,</hi> there hath been and are Co<g ref="char:EOLhyphen"/>lonies and Plantati<g ref="char:EOLhyphen"/>ons, which were plant<g ref="char:EOLhyphen"/>ed at the Cost, &amp; setled by the People, and by Authority of this Nation, which are and ought to be Subordinate to, and dependant upon <hi>England,</hi> and hath ever since the planting thereof been, and ought to be subject to such Laws, Orders and Regulations as are or shall be made by the Parliament of <hi>England:</hi> And whereas divers acts of Rebellion have been committed by many persons inhabiting in <hi>Bar<g ref="char:EOLhyphen"/>bada's, Antego, Bermuda's</hi> and <hi>Virginia,</hi> whereby they have most Trayterously, by Force and Sub<g ref="char:EOLhyphen"/>tilty, Vsurped a Power of Government, and seized the Estates of many well-affected persons into their hands, and Banished others, and
+<pb n="1028" facs="tcp:169070:3"/> have set up themselves in opposition to, and di<g ref="char:EOLhyphen"/>stinct from this State and Commonwealth; many of the chief Actors in, and Promoters of these Rebellions, having been transported and carried over to the said Plantations in Foraign Ships, without Leave, License or Consent of the Parliament of <hi>England:</hi> The Parliament of <hi>England</hi> taking the premises into considera<g ref="char:EOLhyphen"/>tion, and finding themselves obliged to use all speedy, lawful and just means for the Suppres<g ref="char:EOLhyphen"/>sion of the said Rebellion in the said Plantations, and Reducing the same to Fidelity and due Obe<g ref="char:EOLhyphen"/>dience, so as all peaceable and well-affected peo<g ref="char:EOLhyphen"/>ple, who have been Robbed, Spoiled, Impri<g ref="char:EOLhyphen"/>soned or Banished through the said Treasonable practices, may be restored to the freedom of their persons, and possessions of their own Lands and Goods, and due punishment inflicted upon the said Delinquents, Do Declare all and every the said persons in <hi>Barbada's, Antego, Bermuda's</hi> and <hi>Virginia,</hi> that have contrived, abetted, ayded or assisted those Horrid Rebellions, or have since willingly joyned with them, to be Notorious Robbers and Traytors, and such as by the Law of Nations are not to be permitted any maner of Commerce or Traffique with any people what<g ref="char:EOLhyphen"/>soever; And do forbid to all maner of persons, Foraigners and others, all maner of Commerce, Traffique and Correspondency whatsoever, to be used or held with the said Rebels in the <hi>Barba<g ref="char:EOLhyphen"/>da's, Bermuda's, Virginia</hi> and <hi>Antego,</hi> or either of them. And be it Enacted by this present Par<g ref="char:EOLhyphen"/>liament, and by the Authority of the same, That after due publication of this Act made, to the end that none may justly pretend Igno<g ref="char:EOLhyphen"/>rance, It shall and may be lawful to any the
+<pb n="1029" facs="tcp:169070:3"/> Fleet or Ships sent forth or imployed by the Parliament, or any private Men of War or Ships to be allowed or approved in that behalf by the immediate Power of Parliament, or the Councel of State Established by Parliament, to seize, surprise and take all and all maner of Ships, Vessels and Goods, of what nature or kinde soever, belonging to all persons whatsoever, whether Foraigners or others, or of what Na<g ref="char:EOLhyphen"/>tion soever, that shall be found or met withal, Trading, or going to Trade, or coming from Trading with the said Rebels, or in or at the said Island of <hi>Barbada's, Bermuda's, Virginia</hi> or <hi>Antego</hi> aforesaid, or any part or parts thereof; or that shall hold any Correspondency with the said Rebels, or yeild them any Assistance or Re<g ref="char:EOLhyphen"/>lief for the supporting their said Rebellion: And the same Ships and Goods so surprised, to send in to be proceeded against in the Court of Ad<g ref="char:EOLhyphen"/>miralty by vertue of this Act; And the Iudges of that Court finding the same to be within the tenor and true meaning of this Act, to Ad<g ref="char:EOLhyphen"/>judge the same to be well Taken, and to be good and lawful Prize. And for the better Infor<g ref="char:EOLhyphen"/>mation of the said Court, and to the end the proceedings therein may be acted and done ac<g ref="char:EOLhyphen"/>cording to the Rules of Law and Iustice, and that nothing irregular may therein, or by the Takers, be acted or committed, Be it further Enacted, That none of the Goods nor Tackle, Apparel or Furniture of the said Ships so to be surprised by vertue of this Act, shall be im<g ref="char:EOLhyphen"/>bezled or purloyned, but shall be preserved safe and entire till Iudgement be first given in the said Court of Admiralty, or other Order or Decree there made thereupon: And that all
+<pb n="1030" facs="tcp:169070:4"/> the Commissions, Consignments, Bills of Lading, Cocquets, Letters, and all other Instruments and Writings whatsoever, that shall be found on Board the said Ships and Vessels, shall be duly sent up to the said Court of Admiralty: And that also two or three of the Officers or principal persons of, or found in every such Ship or Vessel, shall either be brought up to be Examined upon Oath in the said Court, as well touching the said Writings found in the said Ship, and the Proprietors, Owners and Masters of the same Ships, and the Goods therein, and the places from whence they come, and to whom Consigned, and whi<g ref="char:EOLhyphen"/>ther bound, and such other Questions and In<g ref="char:EOLhyphen"/>terrogatories as in each particular case shall be found meet; or otherwise, in case they cannot with conveniency be sent up, That then they be so Ex<g ref="char:EOLhyphen"/>amined duly upon Oath, before the chief Of<g ref="char:EOLhyphen"/>ficer of some Port in <hi>England,</hi> or the next Iu<g ref="char:EOLhyphen"/>stice of the Peace, concerning the premises be<g ref="char:EOLhyphen"/>fore recited; And their Examinations, toge<g ref="char:EOLhyphen"/>ther with all the Writings found on Board the said Ships or Vessels, to be duly transmitted to the said Court; And the Iudges of the said Court thereupon, and upon such other Proofs and Evidences as shall be duly made, or exhibited before them, shall proceed to Iudge<g ref="char:EOLhyphen"/>ment, and give definitive Sentence by vertue of this Act, according as the nature of the Fact shall be proved before them, and accord<g ref="char:EOLhyphen"/>ing to the Rules and Grounds of Iustice: And if Iudgement shall be given for the same to be lawful Prize, Then it shall be disposed in such sort and maner as is in this present Act afterwards limited and appointed: And
+<pb n="1031" facs="tcp:169070:4"/> to prevent for the time to come, and to hinder the carrying over of any such persons as are Enemies to this Commonwealth, or that may prove dangerous to any of the <hi>English</hi> Planta<g ref="char:EOLhyphen"/>tions in <hi>America;</hi> The Parliament doth forbid and prohibit All Ships of any Foraign Nation whatsoever to come to, or Trade in, or Traf<g ref="char:EOLhyphen"/>fique with any of the <hi>English</hi> Plantations in <hi>America,</hi> or any Islands, Ports or places there<g ref="char:EOLhyphen"/>of, which are planted by, and in possession of the People of this Commonwealth, without Li<g ref="char:EOLhyphen"/>cense first had and obtained from the Parliament or Councel of State. And be it further Enact<g ref="char:EOLhyphen"/>ed, Ordained and Declared by the Authority aforesaid, That from and after the Twentieth day of <hi>November,</hi> One thousand six hundred and fifty, It shall and may be lawful for any Ship or Ships set forth by the Parliament, or al<g ref="char:EOLhyphen"/>lowed of by the Parliament or Councel of State, to seize, take and surprise any Ship or Ships of any Foraign Nation whatsoever, that shall be outward Bound to any of the said Plantations, Ports or places, without such License as afore<g ref="char:EOLhyphen"/>said; and from and after the First of <hi>January,</hi> One thousand six hundred and fifty, It shall and may be lawful for such Ships set forth and allowed as aforesaid, to seize, take and sur<g ref="char:EOLhyphen"/>prise any Foraign Ships that shall be found Trading at any of the Plantations, Islands and places aforesaid, without such License as aforesaid; and from and after the Twentieth day of <hi>March,</hi> One thousand six hundred and fifty, It shall and may be lawful for any of the Parliaments Ships, or private Men of War, allowed of by the Parliament or Councel of State for the time being, to seize, take and sur<g ref="char:EOLhyphen"/>prise
+<pb n="1032" facs="tcp:169070:5"/> any Ship or Ships that are coming from, or have Traded at any of the Plantations as aforesaid, without such License as aforesaid: And all such Ships so taken, with all Goods, Tackle, Apparel and Furniture, to send into some Port of this Commonwealth, to be pro<g ref="char:EOLhyphen"/>ceeded against in the Court of Admiralty, as in this Act is ordered, limited and appointed in case of Trading to <hi>Barbada's, Antego, Bermuda's</hi> and <hi>Virginia,</hi> or any of them; All which Prizes so to be taken and Adjudged by vertue of this Act, shall be disposed of as followeth; that is to say, Of what shall be taken by the Ships set forth by the Parliament, Two thirds thereof to be to the use of the Commonwealth, for the Service of the Navy, as the Parliament shall direct; and one other Third part to be to the Commanders, Officers and Company of those Ships by whom the same shall be taken respe<g ref="char:EOLhyphen"/>ctively, according to the usual Rules of Divi<g ref="char:EOLhyphen"/>sion amongst them: And for what shall be taken by private Men of War allowed as aforesaid, to be to the use of the Owners or Setters forth of the said Ships, as they themselves shall agree, one Tenth part of the whole, heretofore allow<g ref="char:EOLhyphen"/>able to the Lord Admiral, being first taken out, to be disposed by the Councel of State, for such uses as the Parliament shall direct and appoint. Provided always, That if any Prize or Prizes so taken, or any part thereof, shall appear, and be proved in the said Court of Admiralty to be any Ship or Goods belonging to any of the well-affected and good people of this Commonwealth, remaining and continuing under the Obedience and Protection of the Parliament, and before taken or surprised from them by any Enemy or
+<pb n="1033" facs="tcp:169070:5"/> Rebel, or disaffected person, and afterwards a<g ref="char:EOLhyphen"/>gain surprised and retaken by any of the Fleet or Ships imployed in the Service of the Parlia<g ref="char:EOLhyphen"/>ment, or any private Man of War, allowed as aforesaid, That then such Ships and Goods, and every such part and parts belonging to the said good people aforesaid, shall be Adjudged to be restored, and shall be by Decree of the said Court of Admiralty accordingly restored to such former Owner or Owners, paying for and in lieu of Salvage, onely one Eighth part of the true value thereof; unless such Ships so retaken shall appear to have been after their taking by the E<g ref="char:EOLhyphen"/>nemy, or Rebels, or Disaffected, furnished and set forth by them as Men of War on their be<g ref="char:EOLhyphen"/>half: In which case the true and first Owners to whom the same shall be restored, shall be Ad<g ref="char:EOLhyphen"/>judged to pay, and shall pay for Salvage the full Moyety of the true value of the said Ships so retaken and restored. Provided nevertheless, and it is further Enacted, That the Councel of State for the time being have hereby Power to grant License and Leave to any of the Ships of this Nation to go to, and Trade at <hi>Barbada's, Antego, Bermuda's, Virginia,</hi> or any of them, with<g ref="char:EOLhyphen"/>out prejudice or damage, Any thing in this Act to the contrary notwithstanding. And it is fur<g ref="char:EOLhyphen"/>ther Enacted by the Authority aforesaid, That the said Councel of State have hereby Power and Authority to send Ships to any of the Plantations aforesaid, and to grant Commission or Commissions to such person or persons as they shall think fit, with power to enforce all such to obedience as do or shall stand in opposition to the Parliament or their Authority; and to grant Pardons, and to settle Governors in all or any
+<pb n="1034" facs="tcp:169070:6"/> the said Islands, Plantations and places, and to do all just things, and use all lawful means to settle and preserve them in peace and safety, until the Parliament shall take further or other order therein, Any Letters Patents, or other Authority formerly granted or given to the con<g ref="char:EOLhyphen"/>trary notwithstanding. And to the end that due intimation and publication of this Act may be made, and publique notice therof be taken, so that none may justly plead excuse through Ignorance of the same, Be it Ordered and Enacted, That this present Act shall be published by the Ser<g ref="char:EOLhyphen"/>geant at Arms attending the Parliament, three several days upon the Exchange <hi>London,</hi> at the time of the Concourse of Merchants thither.</p>
+         </div>
+         <div type="Parliamentary_order">
+            <opener>
+               <dateline>
+                  <date>Die Jovis, <hi>3<seg rend="sup">o</seg>
+                     </hi> Octobr. <hi>1650.</hi>
+                  </date>
+               </dateline>
+            </opener>
+            <p>ORdered by the Parliament, That this Act be forthwith printed and published.</p>
+            <closer>
+               <signed>Hen: Scobell, Cleric. Parliamenti.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
